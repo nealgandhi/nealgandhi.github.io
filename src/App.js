@@ -4,14 +4,14 @@ import "./input.css";
 
 function App() {
   return (
-    <div className="App subpixel-antialiased">
-      <h1 className="text-xl font-bold">
+    <div className="bg-black h-screen text-white App subpixel-antialiased">
+      <h1 className="pt-4 pb-2 text-xl font-bold">
         Hi <span class="wave">👋 </span> I'm Neal.
       </h1>
       <div className="flex flex-col justify-center">
         <h1> CS @ UTDallas</h1>
         <a href="https://github.com/nealgandhi/">github.com/nealgandhi</a>
-        <p className="px-[25vw] py-4">
+        <p className="px-[28vw] py-4">
           I'm a Junior studying Computer Science at the University of Texas at
           Dallas. I have an interest in Full Stack Development and Embedded
           Software Engineering.
